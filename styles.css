@@ -7,6 +7,9 @@
 .BgColour {
     color: black;
     transition: all 1s;
-    background-color: rgb(0 0 0 / 60%)
+    background-color: rgb(0 0 0 / 80%)
 }
 
+.hml{
+    scroll-behavior: smoot;
+}
